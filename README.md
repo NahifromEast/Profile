@@ -127,7 +127,7 @@ This project integrates computer science and biology, showcasing the potential o
 
 
 GitHub Repository Links
-	•	Ethiopian Coffee Investment Research: CAM research![image](https://github.com/user-attachments/assets/4c6fca82-a017-4d3c-9f83-133656d259b8)
+	•	Ethiopian Coffee Investment Research: 
 	•	Personal Tracker Database Project: 
 	•	Meadowlark Simulation in Computational Biology: 
 
