@@ -4,9 +4,7 @@ By Nahom Woldehawariat
 
 Introduction
 
-	Over my time at St Thomas as a double major in Computer Science and Operations & Supply Chain Managment, I have had the chance to do many different types of research and projects. Utilizing my computer science knowledge and I have done project in Coffee logistics research, using R and Python to create cool visuals to understand supply chain. I participated in Center for Applied Mathematics summer research were I used my computer science knowledge to create tools to advance research in Biology. In the process learning Cuda programing and how to utilize GPU in computation. The next was just a small web project in creating a website to track course work. 
-
-This portfolio highlights three distinct projects that reflect my journey as a computer science student while addressing real-world challenges. Each project demonstrates my technical and collaborative skills and showcases how my work connects to the broader mission of advancing the common good.
+	Over my time at St Thomas as a double major in Computer Science and Operations & Supply Chain Managment, I have had the chance to do many different types of research and projects. Utilizing my computer science knowledge and I have done project in Coffee logistics research, using R and Python to create cool visuals to understand supply chain. I participated in Center for Applied Mathematics summer research were I used my computer science knowledge to create tools to advance research in Biology. In the process learning Cuda programing and how to utilize GPU in computation. The next was just a small web project in creating a website to track course work. This portfolio highlights three distinct projects that reflect my journey as a computer science student while addressing real-world challenges. Each project demonstrates my technical and collaborative skills and showcases how my work connects to the broader mission of advancing the common good.
 
 Reflection
 
