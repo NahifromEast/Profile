@@ -2,7 +2,7 @@ Signature Work Portfolio
 
 By Nahom Woldehawariat
 
-Introduction
+								Introduction
 
 	Over my time at St Thomas as a double major in Computer Science and Operations & Supply Chain Managment, I have had the chance to do many different types of research and projects. Utilizing my computer science knowledge and I have done project in Coffee logistics research, using R and Python to create cool visuals to understand supply chain. I participated in Center for Applied Mathematics summer research were I used my computer science knowledge to create tools to advance research in Biology. In the process learning Cuda programing and how to utilize GPU in computation. The third project was just a small web project in creating a website to track course work for my database class. This portfolio highlights three distinct projects that reflect my journey as a computer science student while addressing real-world challenges. Each project demonstrates my technical and collaborative skills and showcases how my work connects to the broader mission of advancing the common good.
 
@@ -10,24 +10,24 @@ Introduction
 
 
 
-1. Ethiopian Coffee Investment Research
+							1. Ethiopian Coffee Investment Research
 
-Overview
+									Overview
 
 For starters, the inspiration for this project was in hopes to understand what is going on in the biggest industry of my home country. My background and supply chain and computer science motivated me to create an understanding of what is actually going on; how it can be improved upon; and different ways we can apply computer science and supply chain into the industry.This research examines the Ethiopian coffee market and aims to provide actionable insights for investors, particularly the Ethiopian diaspora. Coffee is Ethiopia’s largest export, but a lack of accessible market data creates barriers to investment. My research addresses these challenges by collecting and analyzing data to guide investment strategies. Also looking into what other data 
 
 Well, I did engage in different data analytics using R code, and some visualization was mostly focused on industry insights and understanding what the current environment looks like. Here are the techniques I've used in this process:
 
-Technical Highlights
+								Technical Highlights
 
-Data Analysis
+								     Data Analysis
 
 The cornerstone of this research was analyzing data from the Ethiopian Commodity Exchange (ECX) and USDA reports. Using R programming, I conducted a comprehensive analysis that included:
 	•	Time-Series Analysis: Examined trends in coffee prices over a seven-year period (2013–2019) to identify seasonal patterns, long-term price movements, and market anomalies. This analysis revealed consistent growth in coffee prices with occasional dips linked to geopolitical or economic factors.
 	•	Descriptive Statistics: Summarized key metrics, such as average prices, price variability, and regional differences in coffee production and sales. These insights helped highlight which regions and warehouses consistently performed better and offered the most potential for investment.
 	•	Price Trend Forecasting: Built predictive models to estimate future price movements based on historical data. This technique identified likely increases in coffee prices due to growing demand in international markets, particularly from Germany, the United States, and Japan.
 
-Visualizations
+								Visualizations
 
 I created a series of visualizations just using R code to create time line plots and so on:
 	•	Trend Charts: Illustrated the monthly and yearly changes in coffee prices across various warehouses, showcasing high-performing regions like Jimma and Sidama.
@@ -36,7 +36,7 @@ I created a series of visualizations just using R code to create time line plots
 
 These visual were in an effort to create an easy understanding of the industry using different variable and factors. 
 
-Outcome
+								Outcome
 
 The research proposes the development of an open-source platform that consolidates market data and insights for Ethiopian coffee and different commodities that have investment potential. This platform aims to address the lack of accessible and reliable market data for Ethiopian coffee, empowering investors with tools and insights to make strategic decisions.
 Key features of this platform would include:
@@ -47,7 +47,7 @@ Key features of this platform would include:
 
 
 
-2. Personal Tracker Database Project
+							2. Personal Tracker Database Project
 
 Overview
 
@@ -59,7 +59,7 @@ Features
 	•	Interactive forms to enter data into the database, with seamless updates via Flask routes.
 	•	Using CSS and HTML to create an interface.
 
-Technical Highlights
+								Technical Highlights
 
 This project revolved around creating a personal tracker application using Python, Flask, and SQLite. It was designed to help users manage their academic and personal tasks with efficiency and ease.
 Flask-Based Application Development:
@@ -75,7 +75,7 @@ Built the front-end using HTML and CSS for a seamless user experience:
 	•	Incorporated features such as a University of St. Thomas theme like purple and white pages.
 
 
-Impact
+									Impact
 This project was just a way for us to actually test our skills and database management, web creation and a small but creative way. We were able to spend about a day in creating the friend and then back in interaction between the database and just have an overall understanding of how a tool like this is developed using different frameworks. In our process of trying to develop this, we gain skills in using different frameworks understanding what is like to debug and work with databases. and have a simple understanding of how different HTML and CSS code interacts with database systems. Building this tool highlighted the importance of collaborative problem-solving and iterative development. 
 
 
@@ -85,14 +85,14 @@ This project was just a way for us to actually test our skills and database mana
 
 
 
-3. Meadowlark Simulation in Computational Biology
+							3. Meadowlark Simulation in Computational Biology
 
 Overview
 
 I have been working on extending this computational model to a specific question: How will two different signaling traits (song and feather colors) each evolve to solve two different problems meadowlarks face? How will the two species of meadowlarks evolve to use each signaling trait to determine? Who they can potentially mate with, and who can they share territories with?  So, through coding and model analyses, I will generate hypotheses about biological evolution in Eastern and western meadowlark. This model is a part of the bigger ACD model that we are working with. This research gave me a chance to use new and different coding languages like Cuda. Utilize GPU processing power in a scientific analysis. Working on a project that's mainly focused on developing new ideas and using new tools to understand a very large and broad topic required extensive computing power.
 
 
-Technical Highlights
+								Technical Highlights
 
 It combines advanced computational techniques with biological insights.
 	•	CUDA/C++ Implementation:
@@ -109,7 +109,7 @@ Utilized NVIDIA GPUs to accelerate computations, making large-scale simulations 
 Integrated real-world data into the model to simulate how meadowlarks use distinct traits for mating and territorial defense. The analysis provides hypotheses about the evolutionary pressures shaping these behaviors.
 
 
-Impact
+									Impact
 Impact on skills:
 				Overall, this impact this has on my overall experience with working in different backgrounds with my computer science skills, using it in scientific concepts and learning how to use a Linux environment, and working consistently on the terminal has been huge and beneficial.
 Advancing Scientific Understanding:
@@ -120,9 +120,10 @@ Showcasing Computational Power:
 				By leveraging GPU parallelization, this project demonstrates the potential of computational models to solve complex biological problems, bridging the gap between computer science and biology.
 
 
- 
+
+									Conclusion
 GitHub Repository Links
-	•	Ethiopian Coffee Investment Research: 
+	•	Ethiopian Coffee Investment Research: https://github.com/NahifromEast/nahom/blob/main/CAM%20intro%20presentation.docx
 	•	Personal Tracker Database Project: 
 	•	Meadowlark Simulation in Computational Biology: 
 
