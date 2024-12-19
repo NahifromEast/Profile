@@ -8,13 +8,14 @@ Introduction
 
  Some of these project did have the collaboration of different student and professor but majority of the work was done by myself. I will reflect on the projects next. 
 
-Reflection
+
+
 
 1. Ethiopian Coffee Investment Research
 
 Overview
 
-For starters, the inspiration for this project was in hopes to understand what is going on in the biggest industry of my home country. My background and supply chain and computer science motivated me to create an understanding of what is actually going on; how it can be improved upon; and different ways we can apply computer science and supply chain into the industry.This research examines the Ethiopian coffee market and aims to provide actionable insights for investors, particularly the Ethiopian diaspora. Coffee is Ethiopia’s largest export, but a lack of accessible market data creates barriers to investment. My research addresses these challenges by collecting and analyzing data to guide investment strategies.
+For starters, the inspiration for this project was in hopes to understand what is going on in the biggest industry of my home country. My background and supply chain and computer science motivated me to create an understanding of what is actually going on; how it can be improved upon; and different ways we can apply computer science and supply chain into the industry.This research examines the Ethiopian coffee market and aims to provide actionable insights for investors, particularly the Ethiopian diaspora. Coffee is Ethiopia’s largest export, but a lack of accessible market data creates barriers to investment. My research addresses these challenges by collecting and analyzing data to guide investment strategies. Also looking into what other data 
 
 Well, I did engage in different data analytics using R code, and some visualization was mostly focused on industry insights and understanding what the current environment looks like. Here are the techniques I've used in this process:
 
@@ -29,67 +30,60 @@ The cornerstone of this research was analyzing data from the Ethiopian Commodity
 
 Visualizations
 
-To make the data actionable and comprehensible, I created a series of visualizations:
+I created a series of visualizations just using R code to create time line plots and so on:
 	•	Trend Charts: Illustrated the monthly and yearly changes in coffee prices across various warehouses, showcasing high-performing regions like Jimma and Sidama.
 	•	Regional Performance Maps: Mapped warehouse locations and linked them to their average closing prices, helping investors visualize areas with higher profitability and investment potential.
 	•	Comparative Analysis: Created bar charts comparing coffee grading and price differences based on defect levels, enabling deeper insights into quality-price relationships.
 
-These visualizations not only made the data accessible to stakeholders but also provided clear, evidence-based guidance for potential investors.
+These visual were in an effort to create an easy understanding of the industry using different variable and factors. 
 
 Outcome
 
-The research proposes the development of an open-source platform that consolidates market data and insights for Ethiopian coffee. Key features of this platform would include:
+The research proposes the development of an open-source platform that consolidates market data and insights for Ethiopian coffee and different commodities that have investment potential. This platform aims to address the lack of accessible and reliable market data for Ethiopian coffee, empowering investors with tools and insights to make strategic decisions.
+Key features of this platform would include:
 	•	Interactive Dashboards: Allowing users to explore trends, regional performance, and investment opportunities through user-friendly tools.
 	•	Investment Guides: Providing actionable recommendations tailored to diasporas looking to invest in Ethiopia.
 	•	Community Contributions: Enabling users to add or validate data, fostering a collaborative ecosystem for informed decision-making.
 
-This platform aims to address the lack of accessible and reliable market data for Ethiopian coffee, empowering investors with tools and insights to make strategic decisions.
 
-Reflection
 
-This project exemplifies how data science can address global challenges, promoting economic empowerment and sustainability in underrepresented communities.
 
 2. Personal Tracker Database Project
 
 Overview
 
-In a team-based effort, we developed a personal tracker app for students and professionals to manage courses, assignments, and reminders. The project utilized Flask for back-end development and SQLite for database management.
+In a team-based effort, we developed a personal tracker app for students and professionals to manage courses, assignments, and reminders. The project utilized Flask for back-end development and SQLite for database management. This project was done just as extra credit to demonstrate our ability to use databases and pull from them and make something useful. We coordinated meetings outside of class time to work on the project as a team. Sometimes we met in person, other times we met over Teams. We used Python, HTML, CSS, and the Flask framework to build our interface. We set up routes linked to methods with our desired functionality like viewing and adding courses, exams, assignments, resources, and reminders. We had template HTML pages for each of these entities, with some of them having forms through which new data could be entered into the database through the interface. 
+
 
 Features
 	•	Add and view courses, exams, and assignments through a user-friendly interface.
 	•	Interactive forms to enter data into the database, with seamless updates via Flask routes.
-	•	CSS enhancements for a visually appealing design.
+	•	Using CSS and HTML to create an interface.
 
 Technical Highlights
 
 This project revolved around creating a personal tracker application using Python, Flask, and SQLite. It was designed to help users manage their academic and personal tasks with efficiency and ease.
-	•	Flask-Based Application Development:
-Leveraged Flask to build a robust back-end for the application. Key components included:
-	•	CRUD Operations: Implemented routes for creating, reading, updating, and deleting tasks such as courses, exams, and assignments.
+Flask-Based Application Development:
+Leveraged Flask to build a back-end for the application. Key components included:
+	•	Implemented routes for creating, reading, updating, and deleting tasks such as courses, exams, and assignments.
 	•	Blueprints and Modular Design: Organized the application into Blueprints for better scalability and maintainability.
-	•	Database Models: Designed and implemented database schemas using Flask-SQLAlchemy to handle relationships between tasks, users, and reminders.
-	•	Interactive User Interface:
+	•	Database Models: Designed and implemented database schemas using Flask-SQLAlchemy and did ORM classes using python to handle relationships between tasks, users, and reminders.
+	
 Built the front-end using HTML and CSS for a seamless user experience:
-	•	Dynamic Forms: Created interactive forms that allow users to input and update data directly into the database.
-	•	Responsive Design: Styled the application with CSS to ensure usability across various devices.
-	•	Custom Enhancements: Incorporated features such as a University of St. Thomas logo and polished design elements for a professional look.
-	•	Debugging and Optimization:
-Collaborated with ChatGPT for:
-	•	Fixing issues like form validation errors and broken routes.
-	•	Streamlining Flask application architecture to enhance performance.
-	•	Improving the visual appeal of the interface by integrating modern design suggestions.
+	•	Created interactive forms that allow users to input and update data directly into the database.
+	•	Styled the application with CSS to ensure usability across different browser, even though that was not a requirement.
+	•	Incorporated features such as a University of St. Thomas theme like purple and white pages.
+
 
 Impact
-	•	Enhancing Productivity:
-This application provides students and professionals with an easy-to-use tool for managing their academic and personal lives. It reduces stress by consolidating tasks into one organized platform.
-	•	Promoting Scalability:
-The modular structure of the app allows for future expansion into broader task management tools, catering to a wider audience.
-	•	Fostering Learning:
-Developing this project helped the team deepen their understanding of full-stack development and real-world application design, laying the groundwork for future technological innovations.
+This project was just a way for us to actually test our skills and database management, web creation and a small but creative way. We were able to spend about a day in creating the friend and then back in interaction between the database and just have an overall understanding of how a tool like this is developed using different frameworks. In our process of trying to develop this, we gain skills in using different frameworks understanding what is like to debug and work with databases. and have a simple understanding of how different HTML and CSS code interacts with database systems. Building this tool highlighted the importance of collaborative problem-solving and iterative development. 
 
-Reflection
 
-Building this tool highlighted the importance of collaborative problem-solving and iterative development. By streamlining task management, this project enhances productivity and reduces stress, contributing to the well-being of users.
+
+
+
+
+
 
 3. Meadowlark Simulation in Computational Biology
 
