@@ -10,7 +10,6 @@ Introduction
 
 
 
-
 1. Ethiopian Coffee Investment Research
 
 Overview
@@ -66,6 +65,7 @@ This project revolved around creating a personal tracker application using Pytho
 Flask-Based Application Development:
 Leveraged Flask to build a back-end for the application. Key components included:
 	•	Implemented routes for creating, reading, updating, and deleting tasks such as courses, exams, and assignments.
+ 	•	This was also an opportunity to use frameworks like flashk and Django in the development of this tool.	
 	•	Blueprints and Modular Design: Organized the application into Blueprints for better scalability and maintainability.
 	•	Database Models: Designed and implemented database schemas using Flask-SQLAlchemy and did ORM classes using python to handle relationships between tasks, users, and reminders.
 	
@@ -89,11 +89,12 @@ This project was just a way for us to actually test our skills and database mana
 
 Overview
 
-This project models the evolution of signaling traits in meadowlarks, focusing on traits like song type and feather color. These traits are critical for mating and territorial recognition, providing insights into character displacement in closely related species.
+I have been working on extending this computational model to a specific question: How will two different signaling traits (song and feather colors) each evolve to solve two different problems meadowlarks face? How will the two species of meadowlarks evolve to use each signaling trait to determine? Who they can potentially mate with, and who can they share territories with?  So, through coding and model analyses, I will generate hypotheses about biological evolution in Eastern and western meadowlark. This model is a part of the bigger ACD model that we are working with. This research gave me a chance to use new and different coding languages like Cuda. Utilize GPU processing power in a scientific analysis. Working on a project that's mainly focused on developing new ideas and using new tools to understand a very large and broad topic required extensive computing power.
+
 
 Technical Highlights
 
-This project focuses on modeling the evolution of signaling traits in meadowlarks using GPU-accelerated computing. It combines advanced computational techniques with biological insights.
+It combines advanced computational techniques with biological insights.
 	•	CUDA/C++ Implementation:
 Developed a highly parallelized simulation model using CUDA and C++ to explore the evolution of traits such as song type and feather color in meadowlarks. Key contributions include:
 	•	Territorial Interaction Functor:
@@ -107,26 +108,23 @@ Utilized NVIDIA GPUs to accelerate computations, making large-scale simulations 
 	•	Biological Relevance:
 Integrated real-world data into the model to simulate how meadowlarks use distinct traits for mating and territorial defense. The analysis provides hypotheses about the evolutionary pressures shaping these behaviors.
 
+
 Impact
-	•	Advancing Scientific Understanding:
-This project contributes to evolutionary biology by offering a computational framework to study character displacement. It helps researchers understand how species adapt signaling traits to resolve conflicts and avoid hybridization.
-	•	Conservation Applications:
-Insights from this research can inform conservation strategies by identifying key traits that maintain species boundaries and biodiversity.
-	•	Showcasing Computational Power:
-By leveraging GPU parallelization, this project demonstrates the potential of computational models to solve complex biological problems, bridging the gap between computer science and biology.
-
-Reflection
-
-This project integrates computer science and biology, showcasing the potential of computational tools to address questions of ecological and evolutionary significance.
+Impact on skills:
+				Overall, this impact this has on my overall experience with working in different backgrounds with my computer science skills, using it in scientific concepts and learning how to use a Linux environment, and working consistently on the terminal has been huge and beneficial.
+Advancing Scientific Understanding:
+				This project contributes to evolutionary biology by offering a computational framework to study character displacement. It helps researchers understand how species adapt signaling traits to resolve conflicts and avoid hybridization. This project has been in the works for about 10 years by Professor Okamoto and being able to contribute to this work has been a pleasure.
+Conservation Applications:
+				Insights from this research can inform conservation strategies by identifying key traits that maintain species boundaries and biodiversity.
+Showcasing Computational Power:
+				By leveraging GPU parallelization, this project demonstrates the potential of computational models to solve complex biological problems, bridging the gap between computer science and biology.
 
 
+ 
 GitHub Repository Links
 	•	Ethiopian Coffee Investment Research: 
 	•	Personal Tracker Database Project: 
 	•	Meadowlark Simulation in Computational Biology: 
-
-
- Conclusion
 
 Through these projects, I have demonstrated how technical skills can address challenges in diverse fields such as economics, education, and biology. By connecting these efforts to real-world problems, I aim to contribute to a better understanding of global issues and create solutions that promote progress and sustainability.
 
