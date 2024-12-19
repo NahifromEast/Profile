@@ -125,9 +125,9 @@ Showcasing Computational Power:
 GitHub Repository Links
 	•	Ethiopian Coffee Investment Research: https://github.com/NahifromEast/nahom/blob/main/CAM%20intro%20presentation.docx
 	•	Personal Tracker Database Project: https://github.com/NahifromEast/nahom/blob/main/FInal%20HW8.zip
-	•	Meadowlark Simulation in Computational Biology: 
+	•	Meadowlark Simulation in Computational Biology: https://github.com/NahifromEast/nahom/blob/main/Finall%20Excel%20Paper.pdf
 
-Through these projects, I have demonstrated how technical skills can address challenges in diverse fields such as economics, education, and biology. By connecting these efforts to real-world problems, I aim to contribute to a better understanding of global issues and create solutions that promote progress and sustainability.
+Through these projects, I have demonstrated how technical skills can address challenges in diverse fields such as economics, education, and biology. By connecting these efforts to real-world problems, I aim to contribute to a better understanding of global issues and create solutions that promote progress and sustainability. Overall, these projects have made up my understanding of real world experience in analytics. But I was able to also use my computer science, knowledge and supply chain knowledge in my internship where I utilize some of the same concepts and driving real world decisions.
 
 
 
