@@ -124,7 +124,7 @@ Showcasing Computational Power:
 									Conclusion
 GitHub Repository Links
 	•	Ethiopian Coffee Investment Research: https://github.com/NahifromEast/nahom/blob/main/CAM%20intro%20presentation.docx
-	•	Personal Tracker Database Project: 
+	•	Personal Tracker Database Project: https://github.com/NahifromEast/nahom/blob/main/FInal%20HW8.zip
 	•	Meadowlark Simulation in Computational Biology: 
 
 Through these projects, I have demonstrated how technical skills can address challenges in diverse fields such as economics, education, and biology. By connecting these efforts to real-world problems, I aim to contribute to a better understanding of global issues and create solutions that promote progress and sustainability.
