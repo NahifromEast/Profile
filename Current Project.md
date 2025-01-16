@@ -1,4 +1,4 @@
-# Learning Management System (LMS)
+# Learning Management System (LMS) Project will be private till launch
 This LMS is designed to revolutionize education in Africa, inspired by the Japanese and South Korean education systems.
 
 ## Key Features
